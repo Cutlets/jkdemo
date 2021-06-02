@@ -1,6 +1,6 @@
 #include <stdio.h>
 /*
-demo 0602asdfasfdfasdfsad
+demo
 */
 int main() {
   printf("<h1>Hello, Hongik!</h>");
